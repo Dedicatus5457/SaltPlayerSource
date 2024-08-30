@@ -241,7 +241,7 @@
     <string name="enter_the_playlist_name_here">在此输入歌单名称</string>
     <string name="playlist_name_must_not_be_empty">歌单名称不得为空</string>
     <string name="successfully_added_to_next_play">成功添加到下一首播放</string>
-    <string name="artist_s">艺术家: %s</string>
+    <string name="artist_s">艺术家：%s</string>
     <string name="v3_audio_effect">V3 音效</string>
     <string name="v3_reverb">V3 混响</string>
     <string name="introduction">介绍</string>
@@ -320,7 +320,7 @@
     <string name="you_need_to_restart_the_application">你需要重启本应用</string>
     <string name="notification_of_salt_player">音乐媒体通知</string>
     <string name="scan_music">扫描音乐</string>
-    <string name="salt_player_pro">椒盐音乐 Pro</string>
+    <string name="salt_player_pro">Salt Player Pro</string>
     <string name="do_not_scan_audio_below_60_seconds">不扫描 60 秒以下音频</string>
     <string name="start_scan">开始扫描</string>
     <string name="save_to_the_media_library">保存到媒体库</string>
@@ -525,4 +525,17 @@
     <string name="off">关</string>
     <string name="file_not_found">无法找到文件</string>
     <string name="usb_storage">USB 存储</string>
+    <string name="special_thanks">特别感谢</string>
+    <string name="translators">翻译人员</string>
+    <string name="publisher">发行商</string>
+    <string name="developer">开发商</string>
+    <string name="hidden_songs">被隐藏的歌曲</string>
+    <string name="font_weight">字体粗细</string>
+    <string name="download_it_on_coolapk">去酷安下载</string>
+    <string name="optional_updates">可选更新</string>
+    <string name="additional_pro_features_intro">更多 Pro 功能散落在设置页面的各个角落，可以前往专门的分类页面查看</string>
+    <string name="front_cover">封面</string>
+    <string name="back_cover">封底</string>
+    <string name="album_artwork">专辑视觉设计</string>
+    <string name="unknown_error">未知错误</string>
 </resources>

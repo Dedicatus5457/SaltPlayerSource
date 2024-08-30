@@ -526,4 +526,17 @@
     <string name="off">Off</string>
     <string name="file_not_found">File not found</string>
     <string name="usb_storage">USB Storage</string>
+    <string name="special_thanks">Special thanks</string>
+    <string name="translators">Translators</string>
+    <string name="publisher">Publisher</string>
+    <string name="developer">Developer</string>
+    <string name="hidden_songs">Hidden songs</string>
+    <string name="font_weight">Font weight</string>
+    <string name="download_it_on_coolapk">Download it on CoolApk</string>
+    <string name="optional_updates">Optional Updates</string>
+    <string name="additional_pro_features_intro">Additional Pro features are found across the settings screen, check the specific category screen for details</string>
+    <string name="front_cover">Front Cover</string>
+    <string name="back_cover">Back Cover</string>
+    <string name="album_artwork">Album Artwork</string>
+    <string name="unknown_error">Unknown Error</string>
 </resources>

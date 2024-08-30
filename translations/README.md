@@ -1,10 +1,12 @@
 # 帮助椒盐音乐翻译 Help us to translate Salt Player
 
+> [Данный текст доступен на русском языке](https://github.com/Moriafly/SaltPlayerSource/tree/main/translations/README-RU.md)
+
 可以提交 PR 翻译哦  Submit pr translation
 
 ## 当前翻译使用版本 The version currently used for translation
 
-10.2.1
+10.5.0
 
 ## 感谢翻译 Thanks
 
@@ -16,7 +18,7 @@ Español (Spanish, es) : Nachogao / MRGABOZ
 
 日本語 (Japanese, ja) : AliceMerami / 狐狸小宮 / warekosoha / tgw314
 
-Indonesia (Indonesia, id (in) ) : zam / Yan75 / ReikiAigawara / Relvin Arsenio
+Indonesia (Indonesia, id (in) ) : zam / Yan75 / ReikiAigawara / Relvin Arsenio / Fandy Fathurrohman
 
 Portuguese-BR (Portuguese, pt-BR) : Ricardo Sousa 🇧🇷
 
@@ -30,7 +32,7 @@ Français (French, fr) : Mathias Zhang
 
 한국어 (Korean, ko) : 橙子 / mocacocoa
 
-Русский (Russian, ru) : Moriafly / aircgroup
+Русский (Russian, ru) : Moriafly / AircGroup
 
 ## 翻译须知 Notes
 
@@ -45,3 +47,5 @@ Français (French, fr) : Mathias Zhang
 - 长文本翻译时省略结尾句号
 
 - 翻译的版权由仓库所有者和翻译人员共同持有
+
+[更多参考](https://sakawish.github.io/open-source/salt-ui/tdts/)
